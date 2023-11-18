@@ -209,7 +209,7 @@ export const Bio = {
         "",
       tags: ["React Js",],
       category: "web app",
-      github: "https://github.com/Pranav774105",
+      github: "https://github.com/Pranav774105/PortFolio/tree/master/portfolio",
       webapp: "",
       member: [
         {
